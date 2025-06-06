@@ -60,3 +60,10 @@ barplot(df$educ_exp,
 ![Rplot02](https://github.com/user-attachments/assets/22c5343a-9158-4792-a065-c60d59770bda)![Rplot05](https://github.com/user-attachments/assets/380290ab-80ac-4323-83bb-8834566b49da)
 ![Rplot04](https://github.com/user-attachments/assets/8f2b7e62-752d-40ec-b378-e2d8aa46edda)
 ![Rplot03](https://github.com/user-attachments/assets/2f95fc6d-9112-4e9b-92a3-821908222281)
+
+To put it in a Nutshell: 
+
+1. Austria’s GDP per capita >> Colombia’s GDP per capita → more absolute resources available per student despite similar %GDP spending.
+2. Austria’s efficient public spending + stable policies > Colombia’s challenges with bureaucracy and inequality → better education outcomes.
+3. Austria’s developed infrastructure, technology, and human capital > Colombia’s emerging economy is need it to boost higher education quality and access.
+4. Colombia’s rapid population growth strains educational capacity, while Austria’s stable population allows sustained investment per capita.
